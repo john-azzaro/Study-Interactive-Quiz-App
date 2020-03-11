@@ -9,18 +9,21 @@ The topic of the quiz is on Lord of the Rings lore.
 
 ## What are the Questions?
 There are 5 questions with 4 answers each. There is only 1 correct answer.
+
 You can find the questions here:  [Quiz Questions](https://github.com/john-azzaro/Study-Interactive-Quiz-App/blob/master/devNotes/questions.txt) 
 
 <br>
 
 ## Are there any image assets?
 Yes! There is a ring image that will remain int he foreground while the user takes the quiz.
+
 You can find the assets here: [Image assets](https://github.com/john-azzaro/Study-Interactive-Quiz-App/tree/master/devNotes/images) 
 
 <br>
 
 ## What does the basic design on the app look like?
 The "back of the napkin" basic layout has the header of the quiz at the very top, the score beneath that, and the current view of the quiz at the bottom. A ring image will show to the left of the current content and a button at the very bottom to prompt the user to the next step. 
+
 ![designlotr](https://user-images.githubusercontent.com/37447586/76387571-7cae6d80-6324-11ea-8f2d-a94c661e387f.png)
 
 <br>
@@ -31,8 +34,8 @@ Yes! Currently there is: a welcome screen, a question view, a correct view, an i
 
 | **View**      |    **Link to wireframe**          | 
 | --------------|  -----------------------------------| 
-| Start         |  [See Start wireframe](https://github.com/john-azzaro/Study-Interactive-Quiz-App/blob/master/devNotes/start.html)  | 
-| Question         |  [See Question wireframe](https://github.com/john-azzaro/Study-Interactive-Quiz-App/blob/master/devNotes/start.html)  | 
-| Correct         |  [See Correct Answer wireframe](https://github.com/john-azzaro/Study-Interactive-Quiz-App/blob/master/devNotes/start.html)  | 
-| Incorrect        |  [See Incorrect Answer wireframe](https://github.com/john-azzaro/Study-Interactive-Quiz-App/blob/master/devNotes/start.html)  | 
-| Results        |  [See Results wireframe](https://github.com/john-azzaro/Study-Interactive-Quiz-App/blob/master/devNotes/start.html)  | 
+| Start         |  [See Start wireframe](https://github.com/john-azzaro/Study-Interactive-Quiz-App/blob/master/devNotes/wireframes/start.html)  | 
+| Question         |  [See Question wireframe](https://github.com/john-azzaro/Study-Interactive-Quiz-App/blob/master/devNotes/wireframes/question.html)  | 
+| Correct         |  [See Correct Answer wireframe](https://github.com/john-azzaro/Study-Interactive-Quiz-App/blob/master/devNotes/wireframes/correct.html)  | 
+| Incorrect        |  [See Incorrect Answer wireframe](https://github.com/john-azzaro/Study-Interactive-Quiz-App/blob/master/devNotes/wireframes/incorrect.html)  | 
+| Results        |  [See Results wireframe](https://github.com/john-azzaro/Study-Interactive-Quiz-App/blob/master/devNotes/wireframes/results.html)  | 
