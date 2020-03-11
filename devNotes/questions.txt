@@ -4,8 +4,8 @@
 Questions
 ===============================================================================
 For the questions, I've decided on 5 questions with 4 options each. I decided to
-go ahead and compose the questions in a quiz object to get a head start on the 
-the work and funny enough its a lot easier doing it this way. If all goes according
+go ahead and compose the questions a little closer to the way I will do the question
+bank for the app since its a lot easier doing it this way. If all goes according
 to plan, Im going to use this in the final project.
 ================================================================================= 
 
