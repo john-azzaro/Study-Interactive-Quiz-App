@@ -9,9 +9,7 @@ the work and funny enough its a lot easier doing it this way. If all goes accord
 to plan, Im going to use this in the final project.
 ================================================================================= 
 
-const QUIZ = {
-    questions: [
-        {
+
             text: "Which of the following did NOT obtain ring(s) of power?",
             answers: [
                 {
@@ -30,9 +28,8 @@ const QUIZ = {
                     text: "The Necromancer",
                     isCorrect: false,
                 },
-            ],
-        },
-        {
+
+
             text: "Which of the following is NOT affected by the One Ring ",
             answers: [
                 {
@@ -51,9 +48,7 @@ const QUIZ = {
                     text: "Gandalf the White. The bearer of a new color",
                     isCorrect: false,
                 },
-            ],
-        },
-        {
+
             text: "Where in middle Earth can you find the metal Mithril?",
             answers: [
                 {
@@ -72,9 +67,7 @@ const QUIZ = {
                     text: "Found in most places where the Dwarves established kingdoms",
                     isCorrect: false,
                 },
-            ],
-        },
-        {
+
             text: "The city of Minas Tirith has an unusual shape. Why?",
             answers: [
                 {
@@ -93,9 +86,7 @@ const QUIZ = {
                     text: "The shape resembles the ships that the Numenorians took to reach middle Earth",
                     isCorrect: true,
                 },
-            ],
-        },
-        {
+
             text: "Which race was NOT involved in the War of the One Ring",
             answers: [
                 {
@@ -115,9 +106,3 @@ const QUIZ = {
                     isCorrect: false,
                 },
             ],
-        },
-
-    ],
-
-    answers: [],
-}
