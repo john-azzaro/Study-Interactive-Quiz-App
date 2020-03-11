@@ -22,8 +22,7 @@ fieldset {
 }
 
 html {
-  background: url('http://www.upl.co/uploads/lotrbackground41583301148.png') no-repeat center center fixed;
-  background-size: cover;
+  background-color: rgb(236, 236, 236);
 
 }
 

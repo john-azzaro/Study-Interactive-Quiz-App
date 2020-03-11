@@ -4,13 +4,12 @@
     <title>Lore of the Rings Quiz</title>   
     <meta charset="utf-8">   
     <meta name="viewport" content="width=device-width, initial-scale=1">  
-    <meta name="description" content="Lore of the Rings Quiz Project"> 
+    <meta name="description" content="Lore of the Rings Quiz"> 
     <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.1.1/normalize.css"> 
     <link href="https://fonts.googleapis.com/css?family=Cinzel&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet"> 
     <link href="https://fonts.googleapis.com/css?family=Spectral:400,600" rel="stylesheet"> 
-    <link href="main.css" rel="stylesheet" type="text/css" />
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <link href="wireframeStyles.css" rel="stylesheet" type="text/css" />
   </head>
   <body>
     <header role="banner">
@@ -18,11 +17,13 @@
       score: <span id="score">0</span>
     </header>
       <main aria-live="assertive">
-        <img src="http://www.upl.co/uploads/thering1583301628-991583430381.png">
+        <img class="image" src="http://www.upl.co/uploads/thering1583301628-991583430381.png">
         <section>
+          <div class="container">
+            <p>Think you know eveything there is to know about the Lord of the Rings? Test your knowledge with the “lore” of the rings!</p> 
+          <button id="startQuizButton">Start Quiz</button>
+        </div>
         </section>
       </main>
-    <script src="quiz.js"></script>
-    <script src="index.js"></script>
   </body>
 </html>
