@@ -27,3 +27,12 @@ The "back of the napkin" basic layout has the header of the quiz at the very top
 
 ## Do you have wireframes for each of the specific views?
 Yes! Currently there is: a welcome screen, a question view, a correct view, an incorrect view, and a results view which will lead back to the first question of the quiz.
+
+
+| **View**      |    **Link to wireframe**          | 
+| --------------|  -----------------------------------| 
+| Start         |  [See Start wireframe](https://github.com/john-azzaro/Study-Interactive-Quiz-App/blob/master/devNotes/start.html)  | 
+| Question         |  [See Question wireframe](https://github.com/john-azzaro/Study-Interactive-Quiz-App/blob/master/devNotes/start.html)  | 
+| Correct         |  [See Correct Answer wireframe](https://github.com/john-azzaro/Study-Interactive-Quiz-App/blob/master/devNotes/start.html)  | 
+| Incorrect        |  [See Incorrect Answer wireframe](https://github.com/john-azzaro/Study-Interactive-Quiz-App/blob/master/devNotes/start.html)  | 
+| Results        |  [See Results wireframe](https://github.com/john-azzaro/Study-Interactive-Quiz-App/blob/master/devNotes/start.html)  | 
