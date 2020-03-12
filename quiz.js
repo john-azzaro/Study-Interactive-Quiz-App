@@ -24,7 +24,7 @@ const QUIZ = {
             ],
         },
         {
-            text: "Which of the following is NOT affected by the One Ring ",
+            text: "Which of the following is NOT affected by the One Ring?",
             answers: [
                 {
                     text:"Samwise Gamgee, loyal companion to Frodo",
@@ -87,7 +87,7 @@ const QUIZ = {
             ],
         },
         {
-            text: "Which race was NOT involved in the War of the One Ring",
+            text: "Which race was NOT involved in the War of the One Ring?",
             answers: [
                 {
                     text:"Ents",

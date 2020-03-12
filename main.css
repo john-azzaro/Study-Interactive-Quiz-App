@@ -13,8 +13,13 @@ h2 {
   font-family: 'Spectral', serif;
 }
 
-p, label, legend {
+p, label {
   font-size: 1.5vw;
+}
+
+legend {
+  font-size: 1.7vw;
+  font-weight: bold;
 }
 
 fieldset {
