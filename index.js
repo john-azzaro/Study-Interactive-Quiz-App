@@ -7,7 +7,9 @@ function updateScore(score) {
 function generateStartHTML() {
   return `
   <div class="container">
-  <p>Think you know eveything there is to know about the Lord of the Rings? Test your knowledge with the “lore” of the rings!</p> 
+  <p>Think you know eveything there is to know about the Lord of the Rings? </p>
+  
+  <p>Test your knowledge with the “lore” of the rings quiz!</p> 
   <button id="startQuizButton">Start Quiz</button>
   </div>
   `;
