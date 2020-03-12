@@ -24,7 +24,12 @@ You can find the assets here: [Image assets](https://github.com/john-azzaro/Stud
 ## What does the basic design on the app look like?
 The "back of the napkin" basic layout has the header of the quiz at the very top, the score beneath that, and the current view of the quiz at the bottom. A ring image will show to the left of the current content and a button at the very bottom to prompt the user to the next step. 
 
+### HTML layout
+![html layout lotr](https://user-images.githubusercontent.com/37447586/76477837-c69a6080-63c3-11ea-95a2-c5f6473ca3a6.png)
+
+### Design
 ![designlotr](https://user-images.githubusercontent.com/37447586/76387571-7cae6d80-6324-11ea-8f2d-a94c661e387f.png)
+
 
 <br>
 
