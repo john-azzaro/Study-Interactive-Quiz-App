@@ -1,5 +1,4 @@
 # Initial Design, wireframe, and questions.
-See it Live: https://john-azzaro.github.io/Study-Interactive-Quiz-App/
 
 <br>
 
